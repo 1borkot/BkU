@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Fullstack Development (FastAPI + MongoDB + React)**
 - 👨‍💻 All of my projects are available at [github.com/BKU07](https://github.com/BKU07)
 - 💬 Ask me about **Python, FastAPI, MongoDB**
-- 📫 How to reach me: **your_email@example.com**
+- 📫 How to reach me: **bkullah0@gmail.com**
 - ⚡ Fun fact: *I love turning caffeine into code ☕*
 
 ---
