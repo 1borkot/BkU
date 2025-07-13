@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BkU</h1>
+<h1 align="center">Hi 👋, I'm Borkot Ullah</h1>
 <h3 align="center">A passionate Python & FastAPI Developer from Bangladesh 🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bku07&label=Profile%20views&color=0e75b6&style=flat" alt="bku07" /> </p>
